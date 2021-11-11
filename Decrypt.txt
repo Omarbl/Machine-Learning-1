@@ -1,0 +1,2 @@
+cd C:\Users\omarb\Documents\Master\WS21_22\ML1\Python
+gpg --output sheet3.zip --decrypt sheet03-programming.zip.gpg
